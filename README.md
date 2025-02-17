@@ -1,6 +1,6 @@
 # Paid Search Campaign Analysis
 ## Overview
-Conducted analysis in SQL and Python to surface insights on campaign performance and budget optimization for a paid search campaign dataset contanining data of a 5-months shopping mall’s marketing efforts. Worked independently for one week to clean, wrangle, and analyze the data, identifying key trends related to ROAS, CTR, and conversion rates. Built an interactive dashboard in Tableau to visualize trends related to ad types and periods. Surfaced actionable insights and recommendations for the marketing team, focusing on budget reallocation, high-performing keywords, and time-based targeting strategies to maximize ROAS and improve customer acquisition.
+Conducted analysis in SQL and Python to surface insights on campaign performance and budget optimization for a paid search campaign dataset contanining data of a 5-months shopping mall’s marketing efforts. Worked independently for one week to clean, wrangle, and analyze the data, identifying key trends related to ROAS, CTR, and conversion rates. Built an interactive dashboard in Tableau to visualize trends related to ad types, match types, and device types. Surfaced actionable insights and recommendations for the marketing team, focusing on budget reallocation, high-performing keywords, and time-based targeting strategies to maximize ROAS and improve customer acquisition.
 
 ## Tools and Technologies
 - SQL: PostgreSQL for data cleaning, transformation, and querying.
@@ -26,10 +26,24 @@ Description: The dataset contains information about the ad group advertising, cl
 - `P&L`: Profit and Loss, based on the formula Revenue - Cost. For this dataset mesaures the profit of the specific Ad Group.
 
 ## Project Workflow
-
-
-## Dashboard Creation
-
+1. **Data Loading and Cleaning**
+   - The dataset was downloaded from Kaggle and loaded into PostgreSQL.
+   - SQL was used to clean the data:
+     - Removed duplicate rows.
+     - Handled missing values.
+     - Created new columns for analysis (e.g. ROAS).
+2. **Data Analysis with Python**
+   - The cleaned data was extracted from PostgreSQL and analyzed using Python.
+   - Key analyses performed:
+     - Total sales and profit by category
+     - Sales trends over time
+     - Top-performing products and regions
+3. **Dashboard Creation**
+   - The analyzed data was used to create an interactive dashboard in Tableau/Power BI.
+   - Key visualizations:
+     - Sales trends over time (line chart).
+     - Top-performing products (bar chart).
+     - Regional sales performance (map).
 
 ## Key Insights
 
