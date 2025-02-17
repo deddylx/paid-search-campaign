@@ -3,10 +3,10 @@
 Conducted analysis in SQL and Python to uncover insights on campaign performance and customer engagement for a Kaggle-derived Shopping Mall Paid Search Campaign dataset containing a 5-months ad records. Worked independently for two weeks to clean, transform, and analyze the data, identifying key metrics such as click-through rates (CTR), cost-per-click (CPC), and return on ad spend (ROAS). Built an interactive dashboard in Tableau to visualize trends related to campaign performance and ad spend efficiency. Delivered actionable insights and recommendations for the marketing team, focusing on optimizing ad spend allocation and improving campaign targeting strategies.
 
 ## Tools and Technologies
-- SQL: PostgreSQL for data cleaning, transformation, and querying.
-- Python: Pandas, NumPy, Matplotlib, and Seaborn for data analysis and visualization.
-- Visualization: Tableau for creating interactive dashboards.
-- Version Control: GitHub for project documentation and code sharing.
+- **SQL**: PostgreSQL for data cleaning, transformation, and querying.
+- **Python**: Pandas, NumPy, Matplotlib, and Seaborn for data analysis and visualization.
+- **Visualization**: Tableau for creating interactive dashboards.
+- **Version Control**: GitHub for project documentation and code sharing.
 
 ## Dataset
 Source: [Shopping Mall Paid Search Campaign Dataset](https://www.kaggle.com/datasets/marceaxl82/shopping-mall-paid-search-campaign-dataset)
@@ -47,11 +47,23 @@ Description: The dataset contains information about the ad group advertising, cl
      - Top-performing products (bar chart).
      - Regional sales performance (map).
 
-## Key Insights
-
-
 ## Project Structure
+```
+shopping-mall-campaign-analysis/
+├── data/
+│   └── shopping_mall_campaign_data.csv
+├── sql_scripts/
+│   └── data_cleaning.sql
+├── notebooks/
+│   └── analysis.ipynb
+├── dashboard/
+│   └── campaign_dashboard.twb
+├── images/
+│   └── dashboard_screenshot.png
+└── README.md
+```
 
+## Key Insights
 
 ## Future Enhancement
 
