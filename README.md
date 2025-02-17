@@ -1,6 +1,6 @@
 # Paid Search Campaign Analysis
 ## Overview
-Conducted analysis in SQL and Python to surface insights on campaign performance and budget optimization for a paid search campaign dataset contanining data of a 5-months shopping mall’s marketing efforts. Worked independently for one week to clean, wrangle, and analyze the data, identifying key trends related to ROAS, CTR, and conversion rates. Built an interactive dashboard in Tableau to visualize trends related to ad types, match types, and device types. Surfaced actionable insights and recommendations for the marketing team, focusing on budget reallocation, high-performing keywords, and time-based targeting strategies to maximize ROAS and improve customer acquisition.
+Conducted analysis in SQL and Python to uncover insights on campaign performance and customer engagement for a Kaggle-derived Shopping Mall Paid Search Campaign dataset containing a 5-months ad records. Worked independently for two weeks to clean, transform, and analyze the data, identifying key metrics such as click-through rates (CTR), cost-per-click (CPC), and return on ad spend (ROAS). Built an interactive dashboard in Tableau to visualize trends related to campaign performance and ad spend efficiency. Delivered actionable insights and recommendations for the marketing team, focusing on optimizing ad spend allocation and improving campaign targeting strategies.
 
 ## Tools and Technologies
 - SQL: PostgreSQL for data cleaning, transformation, and querying.
@@ -29,9 +29,11 @@ Description: The dataset contains information about the ad group advertising, cl
 1. **Data Loading and Cleaning**
    - The dataset was downloaded from Kaggle and loaded into PostgreSQL.
    - SQL was used to clean the data:
-     - Removed duplicate rows.
-     - Handled missing values.
-     - Created new columns for analysis (e.g. ROAS).
+     - Checked and removed duplicate rows.
+     - Checked and handled missing values.
+     - Transformed the date column into the correct DATE type for easier time-based analysis.
+     - Split the ad_group text column into three parts for better granularity.
+     - Calculated key metrics such as CTR, CPC, and ROAS.
 2. **Data Analysis with Python**
    - The cleaned data was extracted from PostgreSQL and analyzed using Python.
    - Key analyses performed:
