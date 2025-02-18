@@ -64,9 +64,31 @@ shopping-mall-campaign-analysis/
 ```
 
 ## Key Insights
+1. **Seasonal Campaigns Drive Performance**  
+   - Black Friday/Cyber Monday campaigns achieved the highest **Return on Ad Spend (ROAS) of 9.32** and the highest **conversion rate of 19.09%**, indicating strong performance during peak shopping periods.  
 
-## Future Enhancement
+2. **Device Performance: Desktop vs. Mobile**  
+   - **Desktop campaigns** delivered higher **conversion rates (15.24%)** and **ROAS (1.18)** despite a higher **Cost Per Click (CPC)**.  
+   - **Mobile campaigns** generated higher **Click-Through Rates (CTR) of 41.45%**, but conversion rates were lower, suggesting a need for further optimization.  
 
+3. **Promo and Coupon Codes Increase Engagement**  
+   - Ads featuring promo and coupon codes achieved the highest **CTR (41.45%)**, demonstrating strong user interest. However, the **ROAS (0.92)** was lower, indicating the need for strategic adjustments to improve profitability.  
+
+4. **Match Type Efficiency**  
+   - **Phrase match campaigns** provided the highest **ROAS (1.13)**, making them the most cost-effective targeting strategy.  
+   - **1:1 match campaigns** had the highest **CTR (38.68%)**, making them valuable for engagement-focused advertising.  
+
+5. **Budget Optimization Strategies**  
+   - Increasing investment in **high-ROAS campaigns** such as Black Friday and free shipping promotions.  
+   - Optimizing **mobile campaigns** to improve conversion rates through refined ad copy and landing pages.  
+   - Prioritizing **phrase match targeting** to enhance cost efficiency and maximize returns.  
+
+## **Next Steps**  
+
+- Reallocate budgets toward high-performing campaigns to maximize ROI.  
+- Optimize mobile campaigns by improving ad copy, landing page experience, and targeting.  
+- Focus on phrase match campaigns to improve efficiency and return on ad spend.  
+- Plan ahead for seasonal campaigns to capitalize on high-conversion periods.
 
 ## Contact
 For questions or feedback, feel free to reach out:
