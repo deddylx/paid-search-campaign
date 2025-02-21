@@ -67,6 +67,9 @@ The dashboard can be found in Tableau Public [here](https://public.tableau.com/s
 
 <img width="1203" alt="Screenshot 2025-02-19 at 16 10 07" src="https://github.com/user-attachments/assets/95c1f21d-92f6-4488-bbf9-b910525efc53" />
 
+<img width="1209" alt="paid campaign analysis" src="https://github.com/user-attachments/assets/a62d6215-e49e-42b3-b678-1cae163df3ee" />
+
+
 
 ## Key Insights
 1. **Seasonal Campaigns Drive Performance**  
