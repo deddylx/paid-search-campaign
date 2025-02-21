@@ -62,6 +62,11 @@ shopping-mall-campaign-analysis/
 │   └── dashboard_screenshot.png
 └── README.md
 ```
+## Dashboard
+The dashboard can be found in Tableau Public [here](https://public.tableau.com/shared/N7Z7344QJ?:display_count=n&:origin=viz_share_link). This dashboard enables users to filter by device type, match type, and ad type, and focuses on trends and values in marketing metrics.
+
+<img width="1203" alt="Screenshot 2025-02-19 at 16 10 07" src="https://github.com/user-attachments/assets/95c1f21d-92f6-4488-bbf9-b910525efc53" />
+
 
 ## Key Insights
 1. **Seasonal Campaigns Drive Performance**  
