@@ -91,7 +91,7 @@ The dashboard can be found in Tableau Public [here](https://public.tableau.com/s
    - Optimizing **mobile campaigns** to improve conversion rates through refined ad copy and landing pages.  
    - Prioritizing **phrase match targeting** to enhance cost efficiency and maximize returns.  
 
-## **Next Steps**  
+## **Recommendations**  
 
 - Reallocate budgets toward high-performing campaigns to maximize ROI.  
 - Optimize mobile campaigns by improving ad copy, landing page experience, and targeting.  
