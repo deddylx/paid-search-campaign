@@ -41,7 +41,7 @@ Description: The dataset contains information about the ad group advertising, cl
      - Sales trends over time
      - Top-performing products and regions
 3. **Dashboard Creation**
-   - The analyzed data was used to create an interactive dashboard in Tableau/Power BI.
+   - The analyzed data was used to create an interactive dashboard in Tableau.
    - Key visualizations:
      - Sales trends over time (line chart).
      - Top-performing products (bar chart).
